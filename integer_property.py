@@ -8,7 +8,7 @@ def check(n):
   elif n < 0 :
     print('Negative')
   else:
-    print('newtral')
+    print('neutral')
     
 check(-2)
 check(1)
