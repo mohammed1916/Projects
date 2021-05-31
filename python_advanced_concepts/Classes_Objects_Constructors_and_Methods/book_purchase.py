@@ -63,4 +63,3 @@ Unauthorised
 Book quantity updated as 41
 """
 
-print(book.add_quantity(True, 31))

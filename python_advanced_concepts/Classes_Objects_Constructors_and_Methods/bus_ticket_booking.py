@@ -66,4 +66,3 @@ Driver name:  John
 Total seats:  25
 Seats_booked:  15
 """
-obj.print_bus_details()
