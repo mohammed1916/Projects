@@ -60,7 +60,6 @@ atm_acc_2.getBalance()
 
 print(atm_acc_2.deposit(300))
 atm_acc_2.getBalance()
-<<<<<<< HEAD
 
 """
 OUTPUT
@@ -74,5 +73,3 @@ Amount deposited
 Amount deposited
 400
 """
-=======
->>>>>>> f4a432e43e1c420deba039be95be3d5c36c7b43a
