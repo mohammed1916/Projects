@@ -5,9 +5,9 @@ Female.
 """
 
 class Student:
-    def __init__(self,name,gender):
+    def __init__(self,Name,gender):
         self.gender = gender
-        self.student_name = name
+        self.student_name = Name
         
 
 
