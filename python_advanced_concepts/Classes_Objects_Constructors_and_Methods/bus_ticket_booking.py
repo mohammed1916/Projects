@@ -50,6 +50,7 @@ print(obj.book_seat(1) )
 print(obj.book_seat(2) )
 print(obj.book_seat(21) )
 
+<<<<<<< HEAD
 obj.print_bus_details()
 
 """
@@ -66,3 +67,6 @@ Driver name:  John
 Total seats:  25
 Seats_booked:  15
 """
+=======
+obj.print_bus_details()
+>>>>>>> f4a432e43e1c420deba039be95be3d5c36c7b43a

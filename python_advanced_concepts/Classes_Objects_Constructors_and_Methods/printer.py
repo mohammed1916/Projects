@@ -15,6 +15,7 @@ class Printer:
 
 obj = Printer()
 res = obj.print_me('Welcome')
+<<<<<<< HEAD
 print(res)
 
 """
@@ -23,3 +24,6 @@ OUTPUT
 
 Welcome
 """
+=======
+print(res)
+>>>>>>> f4a432e43e1c420deba039be95be3d5c36c7b43a

@@ -24,6 +24,7 @@ class Student:
 
 s = Student("Mohammed","M")
 print(s.student_name)
+<<<<<<< HEAD
         
 
 """
@@ -32,3 +33,6 @@ OUTPUT
 
 Mr.Mohammed
 """
+=======
+        
+>>>>>>> f4a432e43e1c420deba039be95be3d5c36c7b43a
