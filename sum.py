@@ -11,8 +11,4 @@ def sum_digits(number):
 
 print('N    SUM')
 for number in range(1001,22001):
-<<<<<<< HEAD
     sum_digits(number)
-=======
-    sum_digits(number)
->>>>>>> 48faa3871d2c594d2b8042186051ea3c620c729a
