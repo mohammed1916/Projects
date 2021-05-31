@@ -47,7 +47,7 @@ print(book.order_book(1000))
 print(book.order_book(1))             
 print(book.order_book(43))
 print(book.add_quantity(False, 100))
-<<<<<<< HEAD
+
 print(book.add_quantity(True, 31))
 
 
@@ -62,6 +62,5 @@ No stock
 Unauthorised
 Book quantity updated as 41
 """
-=======
+
 print(book.add_quantity(True, 31))
->>>>>>> f4a432e43e1c420deba039be95be3d5c36c7b43a

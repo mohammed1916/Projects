@@ -118,7 +118,6 @@ class Game:
 g = Game()
 g.start_game()
 
-<<<<<<< HEAD
 """
 OUTPUT
 ------
@@ -212,7 +211,5 @@ Blue rolled 3 and reaches 99
 Red rolled 1 and reaches 100
 Red is WINNER
 """
-=======
 
->>>>>>> f4a432e43e1c420deba039be95be3d5c36c7b43a
 
